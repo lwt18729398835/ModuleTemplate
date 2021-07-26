@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!--本文件的名称应与项目名称一致-->
+<root notation="算法模块Template" enable="yes">
+    <message>
+消息！完成计算
+</message>
+    <status>Finish</status>
+    <in>
+        <class1>
+            <x1 notation="数值x1" unit="mm" type="double">1</x1>
+        </class1>
+        <class2>
+            <x2 notation="数值x2" unit="mm" type="double">2</x2>
+        </class2>
+    </in>
+    <out>
+        <class3>
+            <y notation="数值y" unit="mm" type="double">0.98908846569920228</y>
+        </class3>
+    </out>
+</root>
